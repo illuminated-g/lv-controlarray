@@ -22,6 +22,7 @@
 			<Item Name="XControl Array" Type="Folder">
 				<Item Name="Heater Recipe Editor.vi" Type="VI" URL="../Examples/XControl Array/Heater Recipe Editor.vi"/>
 				<Item Name="Recipe Entry.xctl" Type="XControl" URL="../Examples/XControl Array/Recipe Entry/Recipe Entry.xctl"/>
+				<Item Name="Step Info.ctl" Type="VI" URL="../ControlArray/ControlArray/Step Info.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Control Array.lvlib" Type="Library" URL="../ControlArray/Control Array.lvlib"/>
